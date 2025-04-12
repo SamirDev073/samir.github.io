@@ -12,7 +12,7 @@ const Header = () => {
   return (
     <header className="fixed top-0 left-0 right-0 bg-white/80 backdrop-blur-sm z-50 shadow-sm py-4">
       <div className="container mx-auto flex justify-between items-center">
-        <a href="#hero" className="font-pixel text-xl text-purple">DEV<span className="text-blue">_PORTFOLIO</span></a>
+        <a href="#hero" className="font-pixel text-xl text-purple">SAMIR<span className="text-blue">_DEV</span></a>
         
         {/* Mobile menu button */}
         <button 

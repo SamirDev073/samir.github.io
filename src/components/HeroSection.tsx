@@ -19,8 +19,8 @@ const HeroSection = () => {
         </div>
         
         <h1 className="mb-6 text-4xl md:text-6xl leading-tight">
-          <span className="text-purple">DEVELOPER</span>
-          <span className="block">& DESIGNER</span>
+          <span className="text-purple">SAMIR</span>
+          <span className="block">DEVELOPER</span>
         </h1>
         
         <p className="mb-8 max-w-2xl mx-auto text-lg">
